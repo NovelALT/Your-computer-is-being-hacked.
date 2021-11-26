@@ -1,5 +1,5 @@
-# Your-computer-is-being-hacked.
-คอมคุณกำลังโดนแฮก
+# Your-computer-is-being-virus.
+คอมคุณกำลังโดนไวรัส
 
 โอนเงินมาเราจะทำการถอนไวรัสให้
 
